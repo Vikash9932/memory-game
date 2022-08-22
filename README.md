@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Deployed at https://memory-game-vikash9932.vercel.app
+## Created using React 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
